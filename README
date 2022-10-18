@@ -1,0 +1,21 @@
+THIS IS THE INSTRUCTION TO RUN THIS PROGRAM
+
+There are 3 python files.
+Must have ecdsa python package installed.
+
+Imported modules hashlib, ecdsa.
+hashlib: compute hash value of a variable
+ecdsa: authentication function, to sign message with generated message
+
+******************************************************
+To run python file, in terminal: python3 filename.py
+******************************************************
+
+Go to P2PKH directory
+1) Run keygen.py
+2) Run reScript.py
+3) Run P2PKH.py
+	======Finished======
+
+TO RESTART THIS PROGRAM, DELETE pk.txt, sk.txt, AND .json FILES IN THE DIRECTORY.
+COPY THE NEW .json FILES IN FROM THE BACKUP FOLDER AND RESTART THE INSTRUCTION.

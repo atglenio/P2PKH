@@ -1,0 +1,11 @@
+{
+  "Input": {
+    "Previous tx":  "[B]",
+    "Index": 0,
+    "scriptSig": [ "[C]", "[D]"]
+  },
+  "Output": {
+    "Value": 500,
+    "scriptPubKey": "OP_DUP OP_HASH160 404371705fa9bd789a2fcd52d2c580b65d35549d OP_EQUALVERIFY OP_CHECKSIG"
+  }
+}
